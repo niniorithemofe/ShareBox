@@ -1,10 +1,2 @@
 # ShareBox
-The Sharebox system is designed to optimize the current item donation process for all donation 
-centers, whether Sharebox-certified or not. It provides a secure, automated, and accessible 
-method for distributing food to those in need. The system leverages WiFi-enabled ESP 
-controllers to manage smart storage boxes, integrates machine learning models to ensure 
-donation quality, and features a user-friendly interface. It also offers tax benefits to donors while 
-enabling remote authentication and secure access through a web extension.The design prioritizes 
-ensuring that only authorized users can access the food boxes, maintaining stable and 
-fault-tolerant system operation Supporting multiple food boxes across various locations and 
-Providing a simple and intuitive interface for both administrators and users. 
+The Share Box system follows a modular and microservice architecture. The system is divided into three main components: the hardware layer, the software layer, and the communication layer. The Hardware Layer consists of the electronic locking mechanism controlled by a WiFi-enabled ESP microcontroller. It follows a Sensor-Signal-System design, where sensors detect interaction, signals are processed by the ESP, and the system responds with appropriate locking or unlocking actions. The Software Layer is Built using a microservice architecture, this layer is composed of several independent components: A user-friendly interface for administrators, receivers and donors.A machine learning model API responsible for verifying the quality and condition of donations.A Flask integration module that serves as the bridge between the front-end interface and the backend machine learning services.Lastly Firebase is used as the central backend service for: User Authentication, Realtime Database and Cloud Storage. The communication layer manages data exchange between the software and hardware components using RESTful APIs and MQTT protocols to ensure real-time synchronization, low-latency control, and secure communication. The communication layer facilitates seamless communication across multiple all relevant components This architecture allows for scalability, modular reuse, independent updates, and  user-friendly experience across all app functionalities.
