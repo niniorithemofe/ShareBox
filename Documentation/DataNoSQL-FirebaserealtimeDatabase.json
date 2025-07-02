@@ -1,0 +1,418 @@
+{
+  "Locations": {
+    "Location1": {
+      "Address": "35170 Dodge Park Rd, Sterling Heights, MI 48312",
+      "Shareboxes": {
+        "box1": {
+          "boxcode": 133242,
+          "isoccupied": false
+        }
+      }
+    }
+  },
+  "RejectedDonations": {
+    "fgrg": "fgrgr"
+  },
+  "Shareboxes": {
+    "box1": {
+      "boxcode": 234536,
+      "isclaimed": false,
+      "isoccupied": false
+    }
+  },
+  "donations": {
+    "-ONvSWhX-FB6mTUhrt3Z": {
+      "category": "",
+      "date": "2025-04-15T21:58:38.179Z",
+      "description": "",
+      "donationId": "-ONvSWhX-FB6mTUhrt3Z",
+      "isClaimed": 0,
+      "isPending": 1,
+      "isReceived": 0,
+      "isSubmitted": 0,
+      "name": "",
+      "status": "",
+      "timestamp": 1744754318179,
+      "userId": "0RklNWlkRZMx5zqZTLXzktedqu02"
+    },
+    "-ONvSxlZO2YWE3vuYGo3": {
+      "category": "",
+      "date": "2025-04-15T22:00:33.112Z",
+      "description": "",
+      "donationId": "-ONvSxlZO2YWE3vuYGo3",
+      "isClaimed": 0,
+      "isPending": 1,
+      "isReceived": 0,
+      "isSubmitted": 0,
+      "name": "",
+      "status": "",
+      "timestamp": 1744754433112,
+      "userId": "0RklNWlkRZMx5zqZTLXzktedqu02"
+    },
+    "Clothing": {
+      "-OMLNTQhZqR0f9S1kmbT": {
+        "category": "Clothing",
+        "description": "Hahahaha",
+        "donationId": "-OMLNTQhZqR0f9S1kmbT",
+        "name": "sjsjsjs",
+        "userId": "0RklNWlkRZMx5zqZTLXzktedqu02"
+      },
+      "-OMLOoNje85tVsNb3qhk": {
+        "category": "Clothing",
+        "description": "Bunking",
+        "donationId": "-OMLOoNje85tVsNb3qhk",
+        "name": "bbbhhh",
+        "userId": "0RklNWlkRZMx5zqZTLXzktedqu02"
+      },
+      "-OMZ5Iq9ghyRMitsMQOe": {
+        "category": "Clothing",
+        "date": "2025-03-29T22:50:14.196Z",
+        "description": "Bananas",
+        "donationId": "-OMZ5Iq9ghyRMitsMQOe",
+        "name": "Amani’s",
+        "status": "Received",
+        "userId": "0RklNWlkRZMx5zqZTLXzktedqu02"
+      },
+      "-ONS0jtFkmt5D3dFhLBp": {
+        "category": "Clothing",
+        "date": "2025-04-10T00:08:39.783Z",
+        "description": "Chicken ",
+        "donationId": "-ONS0jtFkmt5D3dFhLBp",
+        "isPending": 1,
+        "isReceived": 0,
+        "isSubmitted": 0,
+        "name": " Mmmkn",
+        "status": "Accepted",
+        "userId": "0RklNWlkRZMx5zqZTLXzktedqu02"
+      },
+      "-ONSZlJrMIsGN2H_OtpY": {
+        "category": "Clothing",
+        "date": "2025-04-10T02:41:40.643Z",
+        "description": "Bbbhhhfcc",
+        "donationId": "-ONSZlJrMIsGN2H_OtpY",
+        "isPending": 1,
+        "isReceived": 0,
+        "isSubmitted": 0,
+        "name": "Ghhhhfgg",
+        "status": "Accepted",
+        "userId": "0RklNWlkRZMx5zqZTLXzktedqu02"
+      },
+      "-ONfgU_3Vi7fi1a876Fn": {
+        "category": "Clothing",
+        "date": "2025-04-12T20:30:06.146Z",
+        "description": "Bbbbh",
+        "donationId": "-ONfgU_3Vi7fi1a876Fn",
+        "imageNames": {
+          "back": "back_1744489806145.png",
+          "front": "front_1744489806144.png",
+          "side": "side_1744489806145.png"
+        },
+        "isClaimed": 0,
+        "isPending": 1,
+        "isReceived": 0,
+        "isSubmitted": 0,
+        "name": " Cccg",
+        "status": "",
+        "timestamp": 1744489806146,
+        "userId": "0RklNWlkRZMx5zqZTLXzktedqu02"
+      }
+    },
+    "Electronics": {
+      "-OMLKuaYktnhPJhI2zen": {
+        "category": "Electronics",
+        "description": "  Gggggg",
+        "donationId": "-OMLKuaYktnhPJhI2zen",
+        "name": "Cccv",
+        "userId": "0RklNWlkRZMx5zqZTLXzktedqu02"
+      },
+      "-OMLOgD3_uBv76ryyuxF": {
+        "category": "Electronics",
+        "description": "Bejejsijs",
+        "donationId": "-OMLOgD3_uBv76ryyuxF",
+        "name": "Uajahjshs",
+        "userId": "0RklNWlkRZMx5zqZTLXzktedqu02"
+      },
+      "-OMZ2kSG0I1Tc8fH5xqK": {
+        "category": "Electronics",
+        "date": "2025-03-29T22:39:04.968Z",
+        "description": "Banana",
+        "donationId": "-OMZ2kSG0I1Tc8fH5xqK",
+        "name": "Banana",
+        "status": "Received",
+        "userId": "0RklNWlkRZMx5zqZTLXzktedqu02"
+      },
+      "-OMZ2kSHVnrtD_9XYE5P": {
+        "donationId": "-OMZ2kSG0I1Tc8fH5xqK",
+        "status": "Received"
+      },
+      "-OMZ3ci33juzTZ9uBYxq": {
+        "category": "Electronics",
+        "date": "2025-03-29T22:42:55.410Z",
+        "description": "Bbbhh",
+        "donationId": "-OMZ3ci33juzTZ9uBYxq",
+        "name": "Chin",
+        "status": "Accepted",
+        "userId": "0RklNWlkRZMx5zqZTLXzktedqu02"
+      },
+      "-ONS32Z5t24YXSQoJZOq": {
+        "category": "Electronics",
+        "date": "2025-04-10T00:18:44.639Z",
+        "description": "Hayden’s",
+        "donationId": "-ONS32Z5t24YXSQoJZOq",
+        "isPending": 1,
+        "isReceived": 0,
+        "isSubmitted": 0,
+        "name": "Dhaka",
+        "status": "Accepted",
+        "userId": "0RklNWlkRZMx5zqZTLXzktedqu02"
+      },
+      "-ONfdoQEqf_xCvEUJKZH": {
+        "category": "Electronics",
+        "date": "2025-04-12T20:18:25.101Z",
+        "description": "Hahahaha",
+        "donationId": "-ONfdoQEqf_xCvEUJKZH",
+        "imageNames": {
+          "back": "back_1744489105101.png",
+          "front": "front_1744489105099.png",
+          "side": "side_1744489105100.png"
+        },
+        "isClaimed": 0,
+        "isPending": 1,
+        "isReceived": 0,
+        "isSubmitted": 0,
+        "name": "Shabbat",
+        "status": "",
+        "timestamp": 1744489105101,
+        "userId": "0RklNWlkRZMx5zqZTLXzktedqu02"
+      },
+      "-ONfj0DKkm266-0rG7w2": {
+        "category": "Electronics",
+        "date": "2025-04-12T20:41:08.245Z",
+        "description": "Histograms",
+        "donationId": "-ONfj0DKkm266-0rG7w2",
+        "imageNames": {
+          "back": "back_1744490468245.png",
+          "front": "front_1744490468243.png",
+          "side": "side_1744490468244.png"
+        },
+        "isClaimed": 0,
+        "isPending": 1,
+        "isReceived": 0,
+        "isSubmitted": 0,
+        "name": "Chuffing",
+        "status": "",
+        "timestamp": 1744490468245,
+        "userId": "0RklNWlkRZMx5zqZTLXzktedqu02"
+      }
+    },
+    "Food": {
+      "-ONS-x--zBojJVZEJMtg": {
+        "category": "Food",
+        "date": "2025-04-10T00:05:11.320Z",
+        "description": "Bdbbxnh",
+        "donationId": "-ONS-x--zBojJVZEJMtg",
+        "isPending": 1,
+        "isReceived": 0,
+        "isSubmitted": 0,
+        "name": "Abandon",
+        "status": "Accepted",
+        "userId": "0RklNWlkRZMx5zqZTLXzktedqu02"
+      }
+    },
+    "General": {
+      "-OMLN_W9DvNTd4g2J41k": {
+        "category": "General",
+        "description": "Bbbffgh",
+        "donationId": "-OMLN_W9DvNTd4g2J41k",
+        "name": "hhhhhh",
+        "userId": "0RklNWlkRZMx5zqZTLXzktedqu02"
+      },
+      "-OMZ-c71Zp5E7TOdPnet": {
+        "category": "General",
+        "date": "2025-03-29T22:25:24.388Z",
+        "description": "Nsnzjjajhbsnssjs",
+        "donationId": "-OMZ-c71Zp5E7TOdPnet",
+        "name": "Maddie",
+        "status": "Accepted",
+        "userId": "0RklNWlkRZMx5zqZTLXzktedqu02"
+      },
+      "-OMZ0IUxMqulT8zFQiou": {
+        "category": "General",
+        "date": "2025-03-29T22:28:22.073Z",
+        "description": "Shshsuuuushssh",
+        "donationId": "-OMZ0IUxMqulT8zFQiou",
+        "name": "Xxfcjzjsjsns",
+        "status": "Accepted",
+        "userId": "0RklNWlkRZMx5zqZTLXzktedqu02"
+      },
+      "-OMZE0_jjQzhelvK0smv": {
+        "category": "General",
+        "date": "2025-03-29T23:28:18.695Z",
+        "description": "Ndjjsjjsd",
+        "donationId": "-OMZE0_jjQzhelvK0smv",
+        "name": "Nsnjsjsjx",
+        "status": "Accepted",
+        "userId": "0RklNWlkRZMx5zqZTLXzktedqu02"
+      },
+      "-OMZFCsMx367pOK4Uwyd": {
+        "category": "General",
+        "date": "2025-03-29T23:33:31.139Z",
+        "description": "Nananajsj",
+        "donationId": "-OMZFCsMx367pOK4Uwyd",
+        "name": "Ahahzhzhxhzjsjsjj",
+        "status": "Accepted",
+        "userId": "0RklNWlkRZMx5zqZTLXzktedqu02"
+      },
+      "-OMZGJh0STF3Ifgxle0b": {
+        "category": "General",
+        "date": "2025-03-29T23:38:21.229Z",
+        "description": "Fccgb",
+        "donationId": "-OMZGJh0STF3Ifgxle0b",
+        "name": "  Can",
+        "status": "Pending",
+        "userId": "0RklNWlkRZMx5zqZTLXzktedqu02"
+      },
+      "-ONRtxUmXUAyBOv5Ky6v": {
+        "category": "General",
+        "date": "2025-04-09T23:34:38.353Z",
+        "description": "Shaving cream ",
+        "donationId": "-ONRtxUmXUAyBOv5Ky6v",
+        "isPending": 1,
+        "isReceived": 0,
+        "isSubmitted": 0,
+        "name": "Shavers ",
+        "status": "Pending",
+        "userId": "0RklNWlkRZMx5zqZTLXzktedqu02"
+      },
+      "-ONS4VQSaPHZR1o6I6sw": {
+        "category": "General",
+        "date": "2025-04-10T00:25:05.013Z",
+        "description": "Biggest",
+        "donationId": "-ONS4VQSaPHZR1o6I6sw",
+        "isPending": 1,
+        "isReceived": 0,
+        "isSubmitted": 0,
+        "name": "Huge",
+        "status": "Accepted",
+        "userId": "0RklNWlkRZMx5zqZTLXzktedqu02"
+      },
+      "-ONfg6-srlh5jAXADjR2": {
+        "category": "General",
+        "date": "2025-04-12T20:28:25.527Z",
+        "description": "Ccbbbb",
+        "donationId": "-ONfg6-srlh5jAXADjR2",
+        "imageNames": {
+          "back": "back_1744489705527.png",
+          "front": "front_1744489705525.png",
+          "side": "side_1744489705526.png"
+        },
+        "isClaimed": 0,
+        "isPending": 1,
+        "isReceived": 0,
+        "isSubmitted": 0,
+        "name": "Laptop",
+        "status": "",
+        "timestamp": 1744489705527,
+        "userId": "0RklNWlkRZMx5zqZTLXzktedqu02"
+      },
+      "-ONvS04Q-MwGlFY0wsoJ": {
+        "category": "General",
+        "date": "2025-04-15T21:56:24.534Z",
+        "description": "Gift",
+        "donationId": "-ONvS04Q-MwGlFY0wsoJ",
+        "imageNames": {
+          "back": "back_1744754184534.png",
+          "front": "front_1744754184532.png",
+          "side": "side_1744754184533.png"
+        },
+        "isClaimed": 0,
+        "isPending": 1,
+        "isReceived": 0,
+        "isSubmitted": 0,
+        "name": "Gucci",
+        "status": "",
+        "timestamp": 1744754184534,
+        "userId": "0RklNWlkRZMx5zqZTLXzktedqu02"
+      }
+    }
+  },
+  "rejectedItems": {
+    "-ONvS0pjZmeRgrUiSbfc": {
+      "LabelMessage": "",
+      "backMessage": "",
+      "category": "General",
+      "frontMessage": "",
+      "sideMessage": "",
+      "timestamp": 1744754187623
+    }
+  },
+  "users": {
+    "0RklNWlkRZMx5zqZTLXzktedqu02": {
+      "address": "Banana",
+      "donationStats": {
+        "accepted": 24,
+        "acceptedDonations": [
+          "-OMZFCsMx367pOK4Uwyd",
+          "-ONRtxUmXUAyBOv5Ky6v",
+          "-ONRuRy_gaxgyxIdWo72",
+          "-ONRua6Azx5QWVZyAVFK",
+          "-ONRwKxjfqKRKvt0Fxhe",
+          "-ONRwVCiCvJBWNlHvClc",
+          "-ONRyCzuYjnzDCDESOt4",
+          "-ONRzYjtixSwu58lT-g1",
+          "-ONS-x--zBojJVZEJMtg",
+          "-ONS0jtFkmt5D3dFhLBp",
+          "-ONS1aTGPvyAbW6eyslb",
+          "-ONS32Z5t24YXSQoJZOq",
+          "-ONS4VQSaPHZR1o6I6sw",
+          "-ONSZlJrMIsGN2H_OtpY",
+          "-ONfbFqh6sOnp3bv8nff",
+          "-ONfdoQEqf_xCvEUJKZH",
+          "-ONfg6-srlh5jAXADjR2",
+          "-ONfgU_3Vi7fi1a876Fn",
+          "-ONfj0DKkm266-0rG7w2",
+          "-ONfjHt4C-fPXHClIiDd",
+          "-ONvS04Q-MwGlFY0wsoJ",
+          "-ONvSWhX-FB6mTUhrt3Z",
+          "-ONvSxlZO2YWE3vuYGo3"
+        ],
+        "rejected": 0
+      },
+      "email": "Niniola142002@gmail.comms",
+      "fileName": "1743052202403.png",
+      "isDonor": true,
+      "name": "Shhhgdgh",
+      "phoneNumber": "nnsjdnnx",
+      "username": "Nini Ola "
+    },
+    "5fiTQOJSsuhsVUYF2IUlbDvGb0g1": {
+      "address": "48201",
+      "email": "Niniola142002@gmail.commssi",
+      "fileName": "1744751827698.png",
+      "isDonor": true,
+      "name": "",
+      "phoneNumber": "1626272828282",
+      "userId": "5fiTQOJSsuhsVUYF2IUlbDvGb0g1",
+      "username": "Katie moss"
+    },
+    "8UNSpCeOFUOwsszYR3qC0CaVu3v2": {
+      "address": "48089",
+      "email": "Niniola142002@gmail.commdjsjsgg",
+      "fileName": "1744753236820.png",
+      "isDonor": true,
+      "phoneNumber": "1626371817",
+      "userId": "8UNSpCeOFUOwsszYR3qC0CaVu3v2",
+      "username": "Maya houston "
+    },
+    "AbvXmJYJXdTYklWn5iDGWgACP7S2": {
+      "address": "48201",
+      "email": "Niniola142002@gmail.comsm",
+      "fileName": "1744751595598.png",
+      "isDonor": true,
+      "name": "Kate moss",
+      "phoneNumber": "1234567890",
+      "userId": "AbvXmJYJXdTYklWn5iDGWgACP7S2",
+      "username": ""
+    }
+  }
+}
